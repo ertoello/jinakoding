@@ -1,6 +1,6 @@
 :root {
-  --primary: #b6895b;
-  --bg: #010101;
+  --primary: #5a6d4a;
+  --bg: #434242;
 }
 
 * {
@@ -19,7 +19,7 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   background-color: var(--bg);
-  color: #fff;
+  color: #e2dbdb;
 }
 
 /* Navbar */
